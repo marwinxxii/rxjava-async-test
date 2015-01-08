@@ -1,0 +1,4 @@
+rootProject.name = 'rxjava-async-test'
+
+include 'test'
+

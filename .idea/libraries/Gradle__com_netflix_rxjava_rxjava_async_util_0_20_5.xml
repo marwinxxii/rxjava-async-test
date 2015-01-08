@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netflix.rxjava:rxjava-async-util:0.20.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-async-util/0.20.5/6043d657fa6223025e68f3501ff78eaa2d67ba8a/rxjava-async-util-0.20.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-async-util/0.20.5/b740f04bc566c06a79d8ca0b005acad45f39e342/rxjava-async-util-0.20.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
