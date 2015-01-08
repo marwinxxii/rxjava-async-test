@@ -1,0 +1,1 @@
+Project with test to reproduce issue with Async.toAsync and InterruptedIOException.
